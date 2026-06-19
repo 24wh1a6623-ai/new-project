@@ -1,0 +1,20 @@
+{
+  "name": "new-project",
+  "version": "1.0.0",
+  "description": "verifying my git set-up ; )",
+  "homepage": "https://github.com/24wh1a6623-ai/new-project#readme",
+  "bugs": {
+    "url": "https://github.com/24wh1a6623-ai/new-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/24wh1a6623-ai/new-project.git"
+  },
+  "license": "ISC",
+  "author": "Bharani",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
